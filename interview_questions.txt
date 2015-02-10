@@ -1,0 +1,49 @@
+Notes:
+
+In most of these, any programming language can be used. Also, not much information is given. The idea behind this is that interviewers frequently do not give much information up front, and it is up to the interviewee to ask (the right) questions in order to gain enough information to solve the problems effectively. These questions are of varying difficulty, and using certain programming languages (like Python) might make some of them too easy.
+
+This category overlaps with data structures because a lot of interviewers want to make sure their candidates have a solid foundation in the subject.
+
+---------------------------------------------------------------------------------------------------
+
+Reverse a string using any programming langauge you choose.
+
+Figure out if a given number is prime using any programming language you choose.
+
+Given a list of integers, write an efficient function to search for the number 9 using any programming language you choose.
+
+Using any programming langauge you choose, generate a list of 10 random numbers and save them to a file.
+
+Write a function that duplicates elements in a list.
+
+Print the last element in a list using any programming langauge you choose.
+
+Find the kth element in a list using any programming language you choose.
+
+Find the number of elements in a list using any programming language you choose.
+
+Determine if a given list is a palindrome. (Palindromes can be read forwards or backwards and are the same, such as 3 4 5 4 3).
+
+Get rid of duplicates in a list using any programming language you choose.
+
+Write a function that converts digits to their full word forms. For example, 75 would be seventy-five.
+
+Insert an element into a list at location x using any programming langauge you choose.
+
+Generate a list of integers between min_number and max_number using any programming language you choose.
+
+Sort a list from largest to smallest in any programming language you choose.
+
+Write a function that determines if a binary tree is balanced using any programming language you choose.
+
+Count the leaves of a binary tree using any programming language you choose.
+
+Using C or C++, write a function that adds integers to a linked list.
+
+
+
+---------------------------------------------------------------------------------------------------
+
+Sources:
+http://www.ic.unicamp.br/~meidanis/courses/mc336/2006s2/funcional/L-99_Ninety-Nine_Lisp_Problems.html
+https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems

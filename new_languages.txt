@@ -1,0 +1,15 @@
+Notes:
+
+The idea for these questions is to explore new languages, languages that may be very different from the ones previously learned. For example, if you are used to C++, then Prolog is a totally different world and very much worth exploring. In some languages, the problems given are extremely easy; and, in other languages, they may be much more complicated.
+
+---------------------------------------------------------------------------------------------------
+
+
+Write "Hello, World" in 5 different programming languages you have never used.
+
+Write an infinite loop in 2 programming languages you have never used.
+
+Generate a random number in a programming language you've never used.
+
+Print a list backwards in a programming langauge you've never used.
+

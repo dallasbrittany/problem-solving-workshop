@@ -1,0 +1,14 @@
+Notes:
+
+This category is less about writing complete code and more about problem solving at a more conceptual level. Some interviewers care more about how you think when encountering a problem rather than how perfect you current coding ability is. In this category, it might be a good idea to write "magic functions" that have descriptive names showing their purpose and are assumed to be already written. You can also use pseudocode. The problems are more like big projects. For example, if you were figuring out how to write a calculator app, it would make sense to outline the problem at a higher level instead of trying to write the addition function from scratch. Instead, you might focus on what needs to happen when a button is pressed, like how the plus button will cause the add function to be called with at least two parameters, the numbers to be added. Some of these problems could take a long time to solve, and it may not be expected that they would be solved in the span of an interview, only that a clear direction is taken or the right questions are asked. Actually, just asking the right questions could be the answer itself. Not much information is given for the prompts.
+
+---------------------------------------------------------------------------------------------------
+
+Write a calculator app with a GUI that just adds and subtracts.
+
+Determine how to program a machine that sorts and packs salmon and tuna with the correct labels on the can.
+
+Determine how to program a machine that identifies if a 3d-printed object is defective or not.
+
+Write a program that determines the weight of an object and records it in a database.
+
