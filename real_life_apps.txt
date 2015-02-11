@@ -12,3 +12,20 @@ Determine how to program a machine that identifies if a 3d-printed object is def
 
 Write a program that determines the weight of an object and records it in a database.
 
+Write a program that determines how many candies are in a cylinder-shaped container.
+
+Write a program to tie your shoes.
+
+Write a program to build a house.
+
+Write a program that extracts data from a hospital database to help determine when flu season is.
+
+Sort a basket of clothes/accessories into 3 containers of 1)shirts 2)pants 3)shoes.
+
+Create the classic memory game where you win only if you've matched up all the pairs.
+
+---------------------------------------------------------------------------------------------------
+
+Sources:
+
+Thanks for adding to these, Gaby!

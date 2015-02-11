@@ -40,10 +40,23 @@ Count the leaves of a binary tree using any programming language you choose.
 
 Using C or C++, write a function that adds integers to a linked list.
 
+Make a pointer point to a variable, output the value of that variable, and then delete the pointer.
 
+(Q9.8) Given an infinite number of quarters, dimes, nickels, and pennies, write code to calculate the number of ways of representing n cents.
+
+(Q13.1) Write a method to print the last K lines of an input file (using C++).
+
+(Q17.2) Design an algorithm to figure out if someone has won a game of tic tac toe.
+
+[Hard] (Q18.1) Write a function that adds two numbers without using + or any arithmetic operators.
+
+[Hard] (Q18.2) Write a method to shuffle a deck of cards.
 
 ---------------------------------------------------------------------------------------------------
 
 Sources:
+
 http://www.ic.unicamp.br/~meidanis/courses/mc336/2006s2/funcional/L-99_Ninety-Nine_Lisp_Problems.html
 https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems
+Thanks for adding to these, Gaby!
+Coding Interview book

@@ -13,3 +13,16 @@ Generate a random number in a programming language you've never used.
 
 Print a list backwards in a programming langauge you've never used.
 
+Create an array in a language you've never used.
+
+Read a file with a list of integers in a language you've never used.
+
+Create a finite while loop with a counter in a language you've never used.
+
+Determine which years are leap years in a language you've never used.
+
+---------------------------------------------------------------------------------------------------
+
+Sources:
+
+Thanks for adding to these, Gaby!
