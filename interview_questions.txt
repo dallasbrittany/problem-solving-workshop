@@ -6,17 +6,17 @@ This category overlaps with data structures because a lot of interviewers want t
 
 ---------------------------------------------------------------------------------------------------
 
-Reverse a string using any programming langauge you choose.
+Reverse a string using any programming language you choose.
 
 Figure out if a given number is prime using any programming language you choose.
 
 Given a list of integers, write an efficient function to search for the number 9 using any programming language you choose.
 
-Using any programming langauge you choose, generate a list of 10 random numbers and save them to a file.
+Using any programming language you choose, generate a list of 10 random numbers and save them to a file.
 
 Write a function that duplicates elements in a list.
 
-Print the last element in a list using any programming langauge you choose.
+Print the last element in a list using any programming language you choose.
 
 Find the kth element in a list using any programming language you choose.
 
@@ -28,7 +28,7 @@ Get rid of duplicates in a list using any programming language you choose.
 
 Write a function that converts digits to their full word forms. For example, 75 would be seventy-five.
 
-Insert an element into a list at location x using any programming langauge you choose.
+Insert an element into a list at location x using any programming language you choose.
 
 Generate a list of integers between min_number and max_number using any programming language you choose.
 
